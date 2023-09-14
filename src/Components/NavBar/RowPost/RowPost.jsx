@@ -46,6 +46,6 @@ function RowPost(props) {
     { urlId &&   <Youtube opts={opts} videoId={urlId.key}/>}
     </div>
   )
-}
+}``
 
 export default RowPost
